@@ -42,9 +42,7 @@ Timeperiod : 1ms
 ## Calculations
 ![WhatsApp Image 2025-11-28 at 23 17 09_48fba44f](https://github.com/user-attachments/assets/f9531523-7368-4542-abd2-2d9c21b05c32)
 
-
-
-**Result:**  
+## Result:  
 Attenuation and bending loss characteristics verified.
 
----
+
