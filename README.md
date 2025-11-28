@@ -1,44 +1,34 @@
 # EXPERIMENT-2-OPTICAL-COMMUNICATION
 ## 🔍 EX.NO: 2 – Verification of Fiber Losses
 
-**Aim:**  
+# Aim:
 To measure propagation and bending losses for two wavelengths in plastic fiber.
 
-**Equipments Required:**  
+# Equipments Required: 
 - Link-B Kit  
 - Patch chords  
 - Oscilloscope  
 - Function Generator  
 - Fiber cables  
 
-**Theory:**  
+# Theory: 
 - Losses due to absorption, scattering, bending  
 - Plastic fiber loss ~180 dB/km  
 - Bending loss increases with reduced loop diameter  
 
-**Procedure:**  
+# Procedure:
 - Setup for 660nm and 950nm measurements  
 - Measure output voltages for 1m and 3m fibers  
 - Calculate attenuation \( a \) using:  
 V1/V2 = e [ -a (L1+L2 ) ] 
 - Bend fiber and record output vs diameter  
 
-**Tabulation:**
-
-### Propagation Loss
-    Fiber Length	Input Amplitude (V)	Output Amplitude (V)
-     0.5              	60.8	           9.80v
-      1	                64.8	            13v
+# Tabulation:
+<img width="678" height="215" alt="image" src="https://github.com/user-attachments/assets/0427bd70-bc0a-40c2-b9df-6312a71bcc03" />
+<img width="698" height="325" alt="image" src="https://github.com/user-attachments/assets/1a6130b3-7209-40f8-b23a-bc5fe8eabf15" />
 
 
-### Bending Loss
-Timeperiod : 1ms
 
-      Bending Diameter	Input Amplitude (V)	Output Amplitude (V)
-      0.5 3	                 6.3	              7.5
-      5	                     6.6               	7.4
-      1 3	                   57.2	              10.4
-      5	                     57.6             	13.2
 ## Calculations
 ![WhatsApp Image 2025-11-28 at 23 17 09_48fba44f](https://github.com/user-attachments/assets/f9531523-7368-4542-abd2-2d9c21b05c32)
 
